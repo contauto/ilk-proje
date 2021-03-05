@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilk proje", "ilk proje\ilk proje.csproj", "{75E2F8FE-111C-4C0D-8EF1-56DDDF2B13C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{6B11E1F7-DF4B-477A-8F45-C40E6E91549E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{42AC3042-97C7-469B-92C0-6E9BB303E1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E2F8FE-111C-4C0D-8EF1-56DDDF2B13C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E2F8FE-111C-4C0D-8EF1-56DDDF2B13C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E2F8FE-111C-4C0D-8EF1-56DDDF2B13C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E2F8FE-111C-4C0D-8EF1-56DDDF2B13C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B11E1F7-DF4B-477A-8F45-C40E6E91549E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B11E1F7-DF4B-477A-8F45-C40E6E91549E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B11E1F7-DF4B-477A-8F45-C40E6E91549E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B11E1F7-DF4B-477A-8F45-C40E6E91549E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AC3042-97C7-469B-92C0-6E9BB303E1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AC3042-97C7-469B-92C0-6E9BB303E1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AC3042-97C7-469B-92C0-6E9BB303E1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AC3042-97C7-469B-92C0-6E9BB303E1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FD96B4-6C0F-4D98-A285-14B8D4F5F6C0}
+	EndGlobalSection
+EndGlobal
